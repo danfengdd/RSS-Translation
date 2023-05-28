@@ -11,6 +11,6 @@
 
 ## 已转换翻译源
 
- - source001 [https://rss-bridge.org/bridge01/?action=display&bridge=EconomistWorldInBriefBridge&limit=100&agenda=on&agendaPictures=on&format=Mrss](https://rss-bridge.org/bridge01/?action=display&bridge=EconomistWorldInBriefBridge&limit=100&agenda=on&agendaPictures=on&format=Mrss) -> [1111.xml](rss/1111.xml)
+ - source001 [https://rss-bridge.org/bridge01/?action=display&bridge=EconomistWorldInBriefBridge&limit=100&agenda=on&agendaPictures=on&format=Json](https://rss-bridge.org/bridge01/?action=display&bridge=EconomistWorldInBriefBridge&limit=100&agenda=on&agendaPictures=on&format=Json) -> [1111.xml](rss/1111.xml)
  - source002 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_iw_rss.xml](rss/mckinsey_iw_rss.xml)
  - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
