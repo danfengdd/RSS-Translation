@@ -12,5 +12,5 @@
 ## 已转换翻译源
 
  - source001 [https://rsshub.app/reuters/world](https://rsshub.app/reuters/world) -> [Reuters_world.xml](rss/Reuters_world.xml)
- - source002 [https://rsshub.app/reuters/world](https://rsshub.app/reuters/world) -> [33.xml](rss/33.xml)
+ - source002 [https://rss-bridge.org/bridge01/?action=display&bridge=EconomistWorldInBriefBridge&limit=100&agenda=on&agendaPictures=on&format=Atom](https://rss-bridge.org/bridge01/?action=display&bridge=EconomistWorldInBriefBridge&limit=100&agenda=on&agendaPictures=on&format=Atom) -> [44.xml](rss/44.xml)
  - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
